@@ -1,4 +1,4 @@
-# Contracting-Project-Management-System-Showcase-Public
+# Contracting-Project-Management-System-Showcase
 Contracting Project Management System (CPMS)
 
 # Contracting Project Management System (CPMS)
